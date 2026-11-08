@@ -33,11 +33,11 @@ The class sizes are unequal. Therefore, macro-averaged precision, recall and F1 
 
 ## c. GitHub Repository Link
 
-**GitHub repository:** https://github.com/kapilpahwa1710/steel-plate-fault-classification
+**GitHub repository:** https://github.com/kapilpahwa0/steel-plate-fault-classification
 
 The repository contains `app.py`, `train_models.py`, `data_source.py`, `evaluation.py`, `requirements.txt`, `README.md`, `test_data.csv`, trained `.joblib` files in `model/`, `model_metadata.json`, `model_comparison.csv`, source data attribution and validation code. The trained preprocessing steps are stored inside each model pipeline.
 
-**Live Streamlit application:** [ADD LIVE STREAMLIT URL]
+**Live Streamlit application:** https://steelclassification-kapil-ml-assignment2.streamlit.app/
 
 ## d. Models used and evaluation
 
